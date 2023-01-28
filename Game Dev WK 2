@@ -1,0 +1,566 @@
+
+
+
+ Michael Cassens (he, his, him) 00:00:00 All right, so good morning. I'm glad you all are here again. Another wonderful 8 am. Start. Who? Someone was wondering if we are coming at
+7, so that's even better. It's getting better and better like eventually. Everyone's gonna get here at 6 am. But here it is 70'clock or 80'clock, and y'all are here to kind of give a bit of a rundown of what we're gonna cover today. We're gonna start talking about your first Hackathon.
+And then we're also gonna talk about your projects. We're gonna talk about about design documents. And then i'll give you a little bit of a roadmap of what we're gonna do, moving forward over the next couple of weeks because we have some guest speakers coming. Okay, so that's something I tried to be really intentional about this semester, so that you all are hearing and being able to interact with some industry experts that are out there. So that'd be
+pretty cool, all right, so let me share my screen so you can see what I see here.
+ Unknown Speaker 00:00:53 I want to share.
+ Michael Cassens (he, his, him) 00:00:57 All right.
+ Unknown Speaker 00:00:59 This, not this.
+ Michael Cassens (he, his, him) 00:01:03 Alright.
+You all can see this
+all right, so tell me.
+But let's say, what is the Hackathon? Alright?
+Did you all read this beforehand?
+Are you reading it really quickly to like, skim.
+You're like.
+Read through it quick, quick, quick! And then you can tell me what it is.
+Anybody have any ideas? What's the hack of on
+ Shanel Locke 00:01:24 just explain stuff to us.
+ Kate L 00:01:27 The heck of Sorry. The hackathon is like it can be 24 h deadline or it could be a week or whatever. But basically, you
+get a random project and you have to do it. I've done it with like circuitry vending and stuff. But it's insane.
+ Michael Cassens (he, his, him) 00:01:44 Yeah.
+you all you all will not have like 24 h or a week, or like, or like you know, 4 to 8 h. It'll be longer timeframe than that. You all have a couple of weeks to do your first well to do all the hackathons, and so we're trying to mirror, even though we're going under the Moniker Hackathon. It's really like 2 weeks sprints. But you're still building stuff just in a really quick way hence. Why, I said in the beginning.
+we're gonna do things using chat, Gbt, or whatever, if you get to that point. But even if it's to a point where you're just like high level, prototyping, I like a story board, or something like that. That is totally fine as well. So you choose how you want to, how far you want to implement something. But
+with that said with each hackathon it should be groups of
+at most 3 people
+somewhere in that area, so that you can be pretty agile about this. No pun intended but it. The idea is that you're building things quickly, and you're able to interact with each other at a pretty high level to make this thing happen. Okay, so
+and it's hard.
+And Hackathon is like this. It's just you're you're basically going through and tackling different information. And I actually give you kind of a definition in here. But
+but really what it is, this is just
+You're just
+have some short period to like work together on stuff. And the reason why we do this.
+and I do hope you sleep. By the way, even though it says without sleep to achieve their task. We're doing this over a couple of weeks. So that would be really disastrous if you didn't sleep. So
+what we're gonna do is we're gonna tackle this idea of how do we determine whether or not something is real or not?
+So this is an interesting problem, right? I mean it's been more present in recent years, particularly because of not only the Internet, but because of social media. And
+where are people getting information and information? And how are they actually determining? If it's real or not. And so can we create a piece of software or the idea of a piece of software that can help us figure that out
+and say, is this real based on sources based on you know truth based on whatever you want to do to make that happen? And so I want you to creatively come up with an idea that says, Well, how do I? How could we do something that someone would actually engage with? To say like this is real, or this isn't real, or maybe, and it can be all sorts of things. This doesn't need to be a standalone thing. Maybe it's an added on onto your browser. Maybe it's it's kind of like If you've ever bought anything off of Amazon, it tells you whether or not it's a fake Review.
+I'm a big review person, so it tells you whether or not something's fake tells you whether or not there's enough reviews to give you like it's an authorized user or something like that. So that's kind of the intention behind this.
+And the reason why i'm saying you can use Chat Gpt is because, as you know, or maybe you don't know you can type stuff in it, and you can say, hey, you know, Tell me how to code this, and it well, so like, for instance.
+if we were to say something like.
+see if I can open up a new browser here.
+maybe
+one in the browser. Have you all been there? By the way, to chat? Gbt.
+ jean.carter 00:05:01 Everyone checked it out hopefully. It will be open right now. It looks like you're limited, and how much you can use it.
+ Michael Cassens (he, his, him) 00:05:09 Oh, you're limited.
+ jean.carter 00:05:11 so it's. It seemed like you could only use it so much before he had to pay, or you could only do so much free paid for service.
+Maybe i'm looking at the wrong one.
+ Michael Cassens (he, his, him) 00:05:20 Oh, cause if you go to chat open I a ai.com. It should give you the ability to like do stuff like right now. It's taint telling you that it's a capacity which is a super bummer, right, but it's probably because it's like early in the morning, or I have no idea why. But whatever so, whatever reason it's full, so
+ Riley Kemp 00:05:41 I've tried it before, and
+so I can use it perfectly fine, no matter how I use it. But where i'll hit is, I can only do a certain amount of requests within an hour.
+ Michael Cassens (he, his, him) 00:05:53 Oh, interesting! And I wonder if that's a scale thing. You know it was. It was unlimited for quite a while, because they just let you do whatever you wanted, which was really interesting. But
+what is interesting about this is you can literally just type in create a program that does this, and you say, like Code this, and it will
+do all that for you.
+and then you can even say, do it in P. 5 Js. Or do it in Javascript to do it in C sharp, or do it for unity, or do it for whatever and it'll tell you how to do it, and i'll explain it all.
+It's not perfect.
+but it can get you pretty close, so it can get you started, anyway, so that might be another option
+to do to do that. So
+So
+this is an option. So chat dot open I ai.com to use this. I wish we could see it, because it's actually pretty fun. But oh, well.
+so there's that.
+So this is part of part of what you're gonna do if you want to do a storyboard. That's okay, too, or you're just saying like I would do this, and it would look like this. So you're just sketching out what it would look like.
+And then you're just walking through. Essentially like it can be, is high levels like a Powerpoint. You're just like
+page. One would be like this page 2 is like this page 3 is like this. It's the idea that i'm looking for more more than the actual implementation. If that makes sense, you know what I mean. I don't need you all to spend so much time on implementation. You don't have time to work on your projects, which is where the bulk of this class is.
+I need you to work on your projects, because that's the main goal and less on this. This is just an exercise to be thinking, how do I do this? And the reason why we're doing this is, it fits into
+the planning process and kind of how i'd like you to be building your projects. Okay. So these 2 week sprints is a really nice way to work through the iterative process, and it it builds upon this idea of the agile development process, which is something we'll talk about in much more length. But getting you into this thought or this work, this working kind of way will help you be successful when you're building your projects. Okay?
+So the next, or the questions on that
+y'all have ideas. I put a channel in discord for the hackathon, so feel free to like
+stuff. Stick stuff in there. That says, you know, hey? I'm working on whatever you know. You want to join me, and then we can go from there. How you all decide to do it is totally up to you.
+So
+is it super loud for you all
+my background.
+Oh, good! It's really loud in my room here. So I was afraid that you guys were hearing it, too.
+It's really almost a little obnoxious, so
+I don't know what's happening. But whatever alright, so then, group formation, what's that?
+You should put that down on paper? That's great. Have them all talk at once. You can have them all add in their own zoom
+personalities. That'd be even better.
+ jean.carter 00:08:56 It's known as Chat chanel.
+ Michael Cassens (he, his, him) 00:08:58 chat, chanel.
+which Chanel will actually respond. So in discord, because we have some that are in
+game development and some that are in game studio, you know. Again, being able to visit with one another is really important. Some may want to do whatever right.
+Remember.
+in your final project.
+It's not me. It doesn't mean that you have to have a group to make your project like. If you all end up being individuals
+fine, you may struggle a little. I'll be honest because it's gonna be a lot unless you already have something. But the caveat to that is that if you have an idea, or that you're already so far along on your project, and you just need people. That's what that's for.
+Right? You say so. Your assignment scroll down here. Your fi assignment
+will be something like this. Where you say, okay, what you're gonna do is you're gonna not only present your project idea.
+but then, if you have any team members identify who they are, and any resources that you need. So resources being other people, other assets that you might need from the store. All those things start thinking about. What are the things I need to actually complete this project, because as much as I think, you all are very talented and wonderful people. There are certain things you're going to be probably a little bit more proficient at, and certain things you might not be as proficient at, and other people can help you with that
+i'll give you an example. I think I can write code. Okay, but i'm not a great like design artist. I'm not a great 3D modeler. I'm not a great sound person, but I can find people that could help me do those things, and there might be people that that's what they want to do right, and that's okay.
+But then they become collaborative with you. But maybe they're bouncing around to other projects. And that's okay, too. You know what I mean. So it's coming up with that general plan like Here's all the things I need.
+Here's when I need them. And then who can I reach out to do that. So in that channel where we're talking about in discord. And so if we pop over to discord and let's see if we're in
+class Here, let's go to class in here
+inside of group projects where see how empty it is. This is where you could say, Hi, everyone!
+My name is, and i'm working on, and I would give your chosen name, if possible. And even if you wouldn't mind introducing not only your chosen name, but also your pronouns here as well say, this is the project I'm working on. Here's some things I could use. Some help on. Would you be willing? Be interested? And then that's where you can start forming things.
+There we go. Thank you very much. That is perfect. So hi! Everyone! My name is Blank. I'm working on a link.
+you know. Here's the things I need, and then you can start your own path, and we can create
+different channels for each project. Once we have them. I just don't know what they are yet. So that's why I made the general group projects. Okay, so that's that part. Are there questions on this.
+ jean.carter 00:11:59 So I do have a question for you. So each of us should have a final project idea
+and ask others invite others to it.
+ Michael Cassens (he, his, him) 00:12:09 Well, you can, or you can work on other people's final projects.
+ Unknown Speaker 00:12:14 Okay.
+ Michael Cassens (he, his, him) 00:12:15 So if you don't have an idea, or you don't actually want to have an idea. But you would like to work on other people's work.
+That's fine. It's just that you should be inserted somewhere
+so as long as you're a part of
+a group, either as you can look at it more industrial, like i'm a contractor.
+or like i'm a collaborator. And then you're just building. Let's say, Jean, you want to do anything and everything that people need with caps.
+you say, hey, I can do stuff for caps, and then, and you can even advertise yourself as such. And then, if anybody's like, hey, that would be really cool. I need to have cats in my project, and then
+you could be that person.
+You know what I mean.
+So
+that would be that would be ideal. But if you have a project, you say, hey, i'd like to really create. You know
+a a cat corralling prop game. Then you could do that, and then see if people could build all the assets for you, or if you don't have time, because that could be the other thing. You may be a really good 3D modeler or a really good asset creator, but you just playing Don't have the time, so can someone help me with that? And then maybe someone could jump in.
+If that makes sense.
+ jean.carter 00:13:26 I I think it's already been predetermined that I'm. An Npc. So just be warned if you invite me to your project.
+ Michael Cassens (he, his, him) 00:13:35 You all have amazing strings. So
+what's that?
+Jean is an excellent an Npc. She'll be able to
+really give that humanistic version to the Npc. World.
+All right
+questions
+concerns.
+hey?
+No music is bad music.
+no questions.
+ jean.carter 00:14:08 I guess that was was one thing that that came up. And I think you addressed it earlier, too. If we're using AI
+knowing whether or not we're kind of
+ripping off by accident. Other work.
+but just kinda, I guess. Keep that in mind as we.
+Yeah, AI: on things.
+ Michael Cassens (he, his, him) 00:14:28 Yeah. So for things like the hackathon. I'm not that worried. We're gonna put caviar, and we're gonna put disclaimers in there. It says I use Chat AI to make this. Happen. You know this is academic purposes only this is not meant for distribution, you know, period. You know what I mean done.
+That is okay. And most of the time unless they're stealing from commercial things. It's usually going to be fine. It's when you try to integrate something like art, or even you know any kind of movement, things like that, or
+into your actual final distribution or commercial product. That's where we'll need to have a conversation like, what is your source? Where are you getting this from inspiring? Being inspired by something is different than flat out, just ripping it off from somewhere. So
+that's always been a constant when it comes to using work or finding, you know, different resources. So it's no different. That's why I don't actually think that using chat AI is that
+they go different. It's just faster. It just binds it faster for you, and that can generate stuff for you. It's just it's collating it from different sources to make it happen so it's like it's still the same principles of Well, you're still stealing from somebody else, so
+you know, use it as a way to inspire you, and then move forward, but not as a way to be like. Replace what you would have done, anyway. You know what I mean, so
+I mean unless it's something that's been done like 10,000 times, and it's completely open.
+You know what I mean, like. If you need to write it, have an algorithm written that, honest to goodness has been written so many times in so many different languages.
+There is no way anyone would ever come back to you and say
+you stole that
+because it's just been written so many times. It's like quicks, or any kind of sorting algorithm or in kind of you know, basic like
+code stuff
+like like if you were to have it right, a function for you to add 2 numbers together. No one's ever going to care. You know what I mean. Like there's not going to care. It's when you have a build out of full on like, build me a video game.
+It does, whatever then it might care right? Somebody might not actually care, but even like honestly saying, have it, write me a snake game, which it will, you know. Write me a basic snake game and P. 5 Gs. It'll write that out for you.
+but it's been written so many times. It's like.
+who's gonna say you stole it. You know what I mean. So
+you just have to be conscientious about what you're asking and what you're using. So if that makes sense.
+ jean.carter 00:16:56 and is 75 years the sort of copyright women on things like images. And
+I think there's some some
+yeah like that statue limitations kind of thing.
+I I can look into it if you want, but that would be great. I can't recall off the top of my head. That sounds about right, but i'm I can't save for certain.
+Okay, I'll double check it just in case people are, because I I might want to take some older artwork and just manipulate it and see what happens.
+ Michael Cassens (he, his, him) 00:17:30 Okay.
+that's great.
+Okay, the the chat is getting funny, and it's it. It's early. So I love this so very much.
+I love this. Okay.
+this is perfect. You all can
+work together and come up with some really fun stuff. But remember, the whole idea behind all of this is, it should be fun.
+So whatever it comes out of this process is meant to be a fun process. So there's one main goal. I might, before we jump away from our group formation and our groups in general. So I really want you all to be mindful like
+again. This should be a fun process
+process.
+and i'm trying to create a an environment where one you're building games. You're trying to avoid this idea of crunch. You all know what that is.
+and it actually feeds into our next thing. But what's crunch?
+It's named by different things from different industries. But this is one specifically the games.
+ Aidan Sweet 00:18:33 Yeah, it's basically when at least within games.
+ Unknown Speaker 00:18:39 I guess you could probably easily describe it as massive amounts of
+ Aidan Sweet 00:18:45 over time.
+Where you basically you're working on the project, and you never stop working on it until it's done.
+ Michael Cassens (he, his, him) 00:18:55 Yeah, Basically, yeah, a 100. So like, Hope you don't have dogs or kids at home because you're going to be at the office for like 2 weeks.
+Yeah. So like the build, the the makers, the developers of bastion. Don't play that game.
+Bastian: okay, Some people
+have you, Kate?
+ Kate L 00:19:16 Yeah, it. That was like on the iphone or ipad thing, right? And it's like the little dude running around.
+ Michael Cassens (he, his, him) 00:19:22 He has a little. He has a little dude running around. But the the the the sound, the sound narration, and the soundtrack of that is one of the best soundtracks I've ever heard, I mean for a game. It's just it's
+it's outstanding
+ Kate L 00:19:40 great, too. It is a cool game, absolutely. It's underrated
+ Michael Cassens (he, his, him) 00:19:43 it is totally underrated, and it's pretty inexpensive. So I think one of the things you might
+considers checking that one out if you've never seen it. But the reason why I bring that up is that when I heard the developers talk at a conference that I went to, they said in the they were living with his parents. So it's. Okay. So imagine this.
+It's him, his friend and his fiance at the time.
+because it was just 2 people working on this, and then his fiancee, who was like running around supporting them in this crazy endeavor, because, of course, they had no money. So, living with the one Guy's parents and his basement. It was like so stereotypical. It was nuts, and.
+like their marriage, almost didn't happen because of just being this togetherness too much togetherness, because in the last month, when they hit crunch
+when they venture how many hours they put in
+the last 30 days.
+ jean.carter 00:20:41 you 24 h in a day.
+20 times $3,600
+ Michael Cassens (he, his, him) 00:20:47 pretty close. It was 500 h.
+They put in 500 ish hours to get that released because somewhere, somehow, somebody had mentioned like, hey, we need to get this out by whatever date. So the promised date was already out there, so they had to like, get it done. But, as you know, as if you've ever built any piece of software, how smooth does it go
+the first time? It always goes swimmingly right like the first time you're rolling through, and you're like, oh, yeah, no problem. It's going to be great. And then it just works right, not really, because once even you get to the end you're like. Oh.
+I just found a bug, or oh, somebody else just found a bug, or and then the complexity of your programs, or what make it so much harder to not only find, but fix. So that's part of what we're doing is like. Oh, yeah, I've got a like.
+Get this down kind of thing. Okay, so that's where it builds into this idea of why we're talking about kind of this process.
+So
+I know some of this may read a little bit more industrial, like corporate like, but part of it is I want you to be thinking about why we need to do this even as game developers, because even though it this particular article focuses on software engineers.
+you're sort of also software engineers, right? So design documents are the things that people
+for lack of better word, they just don't like doing them.
+Why, don't you think they like doing them?
+ Shanel Locke 00:22:19 Why, don't people like doing design documents. They feel that they don't get anything done with the actual program itself. I mean, that's the feeling I get. But the thing is like when you work on them. It just goes so much more smoothly.
+You come in with a foundation and a base plan.
+ jean.carter 00:22:39 especially especially with the team, I think.
+because it puts expectations right out there for everyone. But I also think.
+when you first try to do these, sometimes it's hard to anticipate what it's really going to take.
+You know it's I I think it could overwhelm you when you start looking at all the bits and pieces, and if you paralyze you. I don't know.
+ Michael Cassens (he, his, him) 00:23:01 Yeah, no, that's great
+ Kate L 00:23:03 organizing. So this will be good to just like do for my everyday life is
+ Michael Cassens (he, his, him) 00:23:10 structure because I do work better under structure, but I sure love chaos. Well, I think, as our artists, we sort of live in this world of both right. We need the structure. But there's a little bit of a chaos that happens right. I mean, I've built so many things in chaos that's, nuts. But I knew it was not. But I still did it anyway, thinking, oh, it'll be kind of fun this way, but it ends up, being not as much fun to be honest, especially at the end. There's like, oh, my gosh! This is how you get into
+this problem of crunch, though, because you're not thinking about. How do I create something that's not only sustainable, but something that you just know you're falling along with, and so that you can just that's like a roadmap. It's just this idea like I need to get this done. This done, then I can either continue on, or I can take a break.
+knowing that i'm still going to get things done in a timely fashion. Is it going to be perfect? No.
+I'm just gonna put that out there right here for at first, like nothing's gonna be perfect. But this can help you get a little bit more clarity around what you want to do. Okay. So the first part, of course, is what we just address. Why do we do a design document? We do this because it gives us clarity.
+and it gives us a roadmap of how we're going to do whatever it is we're going to do.
+even though they're saying we're doing something to solve a problem. Your problem in this case is, how do you build a game.
+and what game is it
+describing it? What it is that you're wanting it to accomplish? Who your audiences? What you know this is for those of you that have been in either the art and science of game games, or you've been in game engines. You've done some sort of a game design document at some point, and it kind of templates it out like
+this is what i'm looking for, and this is what i'm looking for and whatever. But in general all projects, no matter what they are, should have some sort of document that outlines everything that's out there. It also feeds into that point. That was If you're in a team.
+it gets some clarity around the team
+because it's kind of like telephone right like. If you don't write it down. What do you think is gonna happen when somebody says, hey! This is what we should do, but someone wasn't able to make it to the meeting. So then somebody says, Well, i'll tell you what happened at the meeting, and so then they tell you what happened in the meeting. But what do you think they heard.
+even if you say it word for word?
+And even if they were in the meeting, what are they going to hear?
+What they want to hear what they want to hear or what they think they heard. Everyone has their own perspective.
+which is good, but at the same time it may cause this confusion right or miscommunication, because it's like
+I that's not what I heard. I, even though somebody says
+I want butter on my bread. Somebody might hear something like
+what kind of salad dressing do you want?
+You know what I mean? That's kind of what can happen, even if you're all in the same room.
+I mean. Trust me, I've had these conversations in the last like
+well, like the whole last this whole year. I've been in meetings where i'm like somebody says, hey, what do we have for lunch? And they say, what's on the dinner menu?
+And we're all in the same room, and i'm like
+what's happening right now. You all are supposed to be professionals, but it's not about that. It's more about. If we can write things down, it just makes everything so much clear, because then we can say like, No, this is what we meant here. This is what we meant here, and then people can refer back to that.
+and it just puts everyone on the same page. So whether or not it's a technical specifications like telling you exactly like point by point, or at least something broad overview. That's what we're trying to generate here. It's like it's no different than an English paper. I know I said this before. But you're giving an outline.
+Start Here, start here, start here, start here, and so forth, and it's just really making sure you get done what you would like to get done at the end of the day, because often what's happening is that
+Because i'm sure this is never happening to you? Either you start a project, and you you know it'd be cool
+as if we did fill in the blank.
+You know what I mean, and then you get sidetracked into whatever was cool in your mind again. You all are creators, which means you come up with some really cool stuff, which also means you come up with really cool stuff all the time, and then you're off on a different tangent
+because you're like. Well, that might be a really cool feature to add into this game.
+and it is, however, the main point of the game sort of gets sidetracked a little, and
+the part that we really want to say is like, what do we really need to do to make sure this thing is functioning.
+and then expand from there. It's easy, said said, than done. I mean i'm just telling you I've done it so many times where I like. Say, we should do this, and then, like I start getting off on a tangent like this would be way more fun, because this would do this over here. And then, all of a sudden, my projects totally derailed, because i'm thinking about something else, and I spend like
+hundreds of hours well over over here, and i'm like, oh, the actual original project is not done.
+Yeah. So then I have to redirect myself back. So that's where design documents can be really helpful, because it's not just the project idea of clarity, but it's your timelines. It's saying, what is it that you're going to do? And when are you going to do them?
+Okay, so that's what these things can be doing? It's just telling you like, how do I get get kind of this stuff done in a real world scenario and like this whole idea. By the way, when you start thinking like, how do I add people to my project? The typical responses?
+Well.
+if I just had more people.
+it'll get done faster.
+true or false.
+ Shanel Locke 00:28:55 definitely false, because you bring in more ideas, and the project gets more elaborate.
+An amazing
+ Michael Cassens (he, his, him) 00:29:02 Yeah, yeah. And Lucy as a express this as well. This is a a categorically false narrative that if we just add more people, things will get done faster. This is the non- software engineer, non game developer point of view.
+Well, how many more people do you need?
+Then it'll get done.
+I'm like
+Oh.
+you could do that.
+But oh, good luck! And it's not as simple as just. It's not a scenario like, I think. Unfortunately, there's this.
+the equating that happens between, you know, developing games and building a house.
+and even that can be somewhat.
+I see if we go down that road. But you think well, if I just bring in more people to build this house that know what they're doing.
+They can build the house, they can read the specs and keep going right.
+That may or may not be true.
+but in game development just because you bring in somebody that knows how to write Code doesn't mean they can get up to speed with the whole intricacies of what's happening in the system. Nor does that mean that they understand, or even
+recognize, or even believe in the vision that you all have too, especially as originators or founders right. So there's so much more complexity that goes into it, and something that just be mindful of. Hence. Why, i'm saying.
+like with your hackathons. Make your project group small.
+You don't need to make them like 10 people large, I mean. There's 2425 people in this class, so
+there's going to be like 8 groups or whatever. That's okay, or maybe more.
+The reason why it's okay is that it's one easier for you to get together as a group, and to just working together will be easier. So that's part of why we do that.
+Okay? So
+I think that's you know. Again, this document can be good. How you flesh it out over time
+is up to you. You can start it out high level, you say. Here's the idea. This is what i'm thinking: these are the platforms I'm planning on again
+one of those
+you know words that you can utilize, or whatever I mean. It can be a living document, i. E. It can change, and you can recognize that as having change like. Oh, I really want to go in this direction, but flushing that out earlier than later is way. Easier.
+Right? How many of you all have worked on a game already?
+Everybody.
+No.
+ Unknown Speaker 00:31:23 yeah.
+ Michael Cassens (he, his, him) 00:31:25 Some of you all have. I know you have, because I've seen them.
+And if I said to you
+3, 4, 6 months down the road oh, you know what you should do. You should change this
+like a fundamental piece like like aidens like You're going out, and you're collecting different things in a first person view. I say Aden, you know what you should do, I think, instead of having a forest scene like you have there, let's change the scene. So you're in the mountains, and there's no trees around, or you're in the sand dunes.
+and there's camels, and instead of collecting things, you're shooting things, and instead of first person you're going to put it in third person.
+ Shanel Locke 00:32:03 and you've already developed everything else.
+ Michael Cassens (he, his, him) 00:32:10 Yeah, how hard that gonna be nightmare. That's what Lucy says.
+ jean.carter 00:32:14 It's a
+ Michael Cassens (he, his, him) 00:32:20 I kind of like that. I might change my name.
+And in zoom i'll say Code Zillow
+right?
+One thing that does happen which is really unfortunate and 2 it's painful right. But if you have this design document that says.
+what am I going to have in there? What am I going to do, and what things. Am I not going to do?
+That's sometimes the hardest. Here's the other side.
+You all are nice people.
+which means what
+what happens with nice people?
+ Kate L 00:32:52 Thank you.
+ jean.carter 00:32:54 Oh, sorry, Kate. I was gonna say, learn to say no.
+ Michael Cassens (he, his, him) 00:32:58 Yeah.
+Sometimes it's hard to say no, and you get taken advantage of.
+Those are very real things, and those are things like
+like
+I don't know. It just happens
+because people don't think
+that what you all are doing is as hard as it is because they don't know they've never done it.
+I mean, I don't even know how many times you've probably heard, and I know I've heard over the multiple decades of Well, how hard is that.
+heck I got one this morning.
+I mean, this morning. I don't know how hard this is. But do you think you could make this change?
+Remember this conversation I had with you like a month ago, when I said, You know, if you want to do this. It's going to be a lot easier if we decide. Now, then, like a month from now
+and then, a month later goes by, and they say you. You know it'd be really nice if we did this. Do you think it'd be hard to do that?
+How can I?
+ jean.carter 00:33:54 The response, Michael? The response has to be well for $10,000 he can make that change. And I think this may fall off.
+ Michael Cassens (he, his, him) 00:34:04 Yeah. And you know what I actually started doing that, I said. I'm happy to do that. This is going to be the cost.
+and if the cost is something they're willing to do, then it. It makes it easier to say yes, and if it's not, they'll just say, Well, we'll think about it, and then it'll just go away because it's it. It really depends on how important it is to them.
+and and it's about value.
+What you all do is valuable
+way more valuable than you can even imagine.
+The things that you have to offer are things that people cannot do. Very few people can do like less than 2% in the world.
+So.
+being out there and saying like I can create a game or I can write anything I can create sounds. I can create assets. Those are things that very, very few people can do. And what makes you all very unique.
+even more unique, is that you can do both. That's why I want you to dabble around and code and dabble around in your assets and level design, and all that, because doing all of that is, makes you even more specialized that someone else can't do
+like somebody might be able to do just one of those things. But you all are having this really broad kind of background that gives you
+that much more leverage when you're out there in the world, which is a good thing. Okay, so
+that's part of this. Okay. So
+when we come in here.
+What are we going to put in this document?
+The titles variable? I'll be honest like I don't know about you all, but it takes me a while to come up with a good name like a good name for a game like often. I'm not a great game, you know. I just. I just don't come up with good names, so it takes like
+10 iterations before I come up with something.
+Semi: okay for me, you know, and but putting in the people that are involved are important. Why does it matter?
+Yeah, those are great ideas, Gene.
+ jean.carter 00:36:08 Oh, sorry I was. Yeah, I got distracted here.
+ Michael Cassens (he, his, him) 00:36:11 No, it's okay.
+So we one of our people.
+ jean.carter 00:36:17 Yeah.
+ Michael Cassens (he, his, him) 00:36:18 Why.
+ Solly 00:36:21 then, at the end, when you're doing credits, you don't have to try to remember who who is all involved.
+ Michael Cassens (he, his, him) 00:36:27 Yeah, absolutely.
+That's one thing that's a big deal
+like everyone should get credited for the work they were doing and credit them well, right, like, even if they weren't the first developer, or they were the last developer. That means that everybody that was involved should get credited for the work that was done.
+because it's still work right? So that's one of those things. And this can be really helpful. And of course you have questions. If they worked on a Sec. Certain section, you can track them down
+and say, like, hey, can you help me? I can't remember this part whatever right, especially if you're using people that are doing very specialized work that can be really helpful. And I it also helps just like, give an idea of, you know, who was all involved
+right then, the overview, which, of course, should just be some sort of basic overview of what it is that you're trying to do what kind of game it is. What kind of you know. What is it that you're doing? Is this a story based game? Is it an action game? Rpg: is it a you know open world, whatever that looks like, you know. Hack and slash one of my favorites. By the way, one of those things right?
+And then why are you doing it?
+That may or may not be useful, but it is kind of nice like. Why are you building this game?
+Is it, for reasons of, you know, just because it sounds fun.
+is there, you know, a a social impact that might be happening, a cultural impact that might be happening. Maybe a little bit of both, maybe all of them, you know. But you're trying to. It's educational, whatever it is that you're looking for and wanting to create like
+just that grounds you or it can ground you, and it can give context to others to say like, why you're doing this, you know. So this is where we're coming back to. What are the goals and non goals? What are the things that you want to accomplish in this game? What are the things that right now? You're not. You don't have to like. Slam the door shot.
+but you can say in this version, we're not.
+We're just doing this
+and that's okay, and be settled with that. You know what I mean. No, because the non goals are the things that you want to do. They should just be that
+you say these are the things i'd like to do in the future version 2 version 3, whatever. And they're there, it's not something you're focused on. So, as these wonderful ideas are coming out, you put them in that section ours. People come to you and say, you know what'd be really cool if you did this this and this? You put them in that section. So it's not like they're being ignored. They're just not being focused on.
+And so that's really the the main point of the goals and the non goals area. Okay, so that's why that's there. And it's really kind of nice for that. Okay.
+then, under milestones. This is where we're going to be actually specifying when you're going to get stuff done
+right. I try to put down milestones for you all throughout the semester Milestone one you're going to be doing this that's why it just says in the kind of tentative outline it's almost every week
+like how you all doing. It's a check in time.
+ Shanel Locke 00:39:25 I think. June seventh seems reasonable
+ Michael Cassens (he, his, him) 00:39:28 of 2,018.
+Yes, yes, you just say it's already done. Yeah, Did you know? Yeah, look, I'm d10, and as an aside, by the way, once you produce something, no matter what it is you produce in this class assets, or full game, or sounds, or anything. They all belong to you
+like a 100%.
+The University doesn't own any of it.
+So which is actually pretty sweet. It wasn't like that before. So it's actually. I don't know when it changed, or whatever. But I just wanted to pass that on to you.
+So, no matter what you do in this class, it belongs to you. When you leave you can take it with you go distribute it.
+Make your Brazilians make sure you, you know, give money back to our foundation to support more stuff, students. It's my shameless plug to get more students. But yes, this here is great saying, You know this is what i'm gonna do
+new and whatever running in dark mode by this time, and so forth.
+That's great.
+What I would recommend.
+and what i'll always recommend is, give as much detail to your milestones as possible.
+as you're coming up with your timelines. Look at all the things that you would like to accomplish. Maybe it's just like I need to get my first person or my main character move around.
+Okay.
+that's a great goal. What does that mean?
+I need to make sure my person is movable, based on the keyboard and movable, based on a joystick and movable with a mouse, or whatever that looks like, but being able to really specify.
+And you know in and i'm gonna have a mobile in unity or movable in unreal, or I'm gonna have that person cross platform? It's gonna be, whatever it is. But all those pieces. And the reason why is then, when you have that kind of detail.
+then it's a lot harder to say like, Well, I got the movement going.
+and then
+pause for dramatic effect.
+It's more like.
+okay. I got that movement going, but I didn't get this movement going, and because things will be dependent on other things like later down the road when you're like. Well, I didn't get that movement done. So then. Now, milestone 2 is kind of
+in the in the gut, or it gets pushed like this is a typical thing, right, and it's not anyone's fault. It's just that
+our life is set so that you all have other lives too as much as I'd love for this class to be the only class you have. You have other lives like Take Chanel. She has a restaurant
+which that's a whole. Another thing, right. We can make a game out of that, right. And you're thinking yourself okay.
+Not only does she now have a restaurant
+and school as a grad student, a full time grad student. She also has a partner. She has dogs, big dogs, and, you know. Sorry I don't mean to be too personal, but the whole You forgot the class I'm teaching. Oh, and then classroom teaching. Oh, and i'm running, and she's teaching web design.
+and she's doing the the social media stuff. So it's like, what more could we throw on Chanel's play while she's building a game? Right? It's like.
+Okay.
+so breaking these things down can make things a little bit more reasonable to say like today. I can work on this and get it done off the plate check. I don't need to look at that again until tomorrow or until the next day, because I've got that part done.
+It just makes your life a little bit more controlled, and again going back to the whole idea of chaos. Chaos can be fun.
+but it can also be crazy like it can drive you crazy if it's not managed well. So, anyway. So that's out.
+ jean.carter 00:43:22 you know, with game development. Are there certain activities that tend to come before other activities such as
+build the background before you build the players, or something like that. Are there some general rules of thumb that you might look at our
+design plan, or we would discuss.
+ Michael Cassens (he, his, him) 00:43:41 Yeah, that's a great question. Anybody want to jump in?
+I'm at.
+ Aidan Sweet 00:43:48 I have one thing to say. When you comes to game development. I'll say this visuals come last
+when it comes to that. You want to develop your my everything that's like technical and mechanical. You want to get that done first. Then you polish off your graphics and your visuals last, like
+basically like when you're developing the mechanics and the function of the game, I mean you could just have like
+blocks moving around the screen, and then you add in your characters your character sprites later like
+visuals, is not the thing that you should focus on first and foremost for the game, unless that's your role. And you're just doing the visuals, then. Yeah, of course. But
+in total when it comes to developing a game, the visuals are usually the last thing that are polished and handled.
+ jean.carter 00:44:43 Okay.
+ Michael Cassens (he, his, him) 00:44:45 anybody else on a jump in on that one.
+If Britney were here.
+I bet
+ Shanel Locke 00:44:51 she
+it depends on the game to
+I mean, really.
+but it also depends on the people, and where their strengths like because you're automatically going to gravitate towards certain things. But
+I mean personally, as an artist, I've really cut back on focusing on the artwork, and that was a hard hurdle for me to
+surpassed, because I just spend all this time on the artwork, and then the game wasn't functional, and that's not fun. It looks cool. It's not very fun. So I've kind of moved
+more towards
+Aiden's theory.
+I gave up. I gotta embrace my cody side.
+ Kate L 00:45:35 This is also not paying attention to sound. It's like you can have the best looking Video.
+best story for a podcast, but if your sound is shit.
+ Unknown Speaker 00:45:47 it runs it.
+ Kate L 00:45:49 So that's right.
+ Michael Cassens (he, his, him) 00:45:50 my my sound blurb
+more immersive than lots of other things in the world, and trying to create. That
+includes not only the visuals, the mechanics the fun, but also the sound that goes with that. So those are all very vital things.
+and it's just again, I think. And and Cole had mentioned this, too. It seems like it's, you know, a matter of priorities. Right? So.
+And then. So what are those priorities?
+Okay, if you subscribe to what Aiden is saying. You know we need to, you know, focus on the functionality which i'm a functionality person to.
+But I have also had others
+function on the art first, knowing that the functionality was either already built, or that the functionality was such.
+I I don't want to say rudimentary, but just like not as
+intense
+that it was okay, the function until focus on the art. First.
+because it was basic mechanic.
+the mechanics, the actual movement, or whatever was so basic that it was okay to then just focus in on the art. So it really again, like what you know was saying, really kind of depends on the game that you're building to like. How intensive is it?
+Are you having multiplayer involved.
+is it? You know 3D first person, you know fully VR: Immersed world. Well, you're probably gonna have to have some sort of
+functionality
+to be able to actually make it work, and then adding assets just becomes a little bit easier, because
+if again, if you focus on the assets first.
+but no functionality, someone will say, that looks cool.
+So what do I do? And you say, Well, I can't. You can't do anything. Well, then, they might be like, okay.
+and then that's it. You know what I mean. So it's a balance. But I would. Depending on what your game is. I would recommend thinking as well like.
+ Shanel Locke 00:48:04 How do I get that functionality? At least the base basic functionality in place, and then add all those things to really make it a fully robust game. Okay, that's how my middle schoolers, my children, are. They like, Try my games, and they're like this looks cool, but there's no point to it, and then they burn me and walk away, and they hate my gang.
+It's because they're middle schoolers.
+ Michael Cassens (he, his, him) 00:48:28 They're rough. The story is to have middle schoolers test your games. They're going to be me.
+Yeah, you'll get the most honest response from middle schoolers. How's that? If you really want an honest response, go to a middle school, all right, and then, of course, you know this idea of alternative. Don't feel bad if you're integrating stuff that something's someone's already built
+like If there's a code base out there, or there's models with rigging already out there, and it works well for your game. That's okay.
+like no one's going to burn you over that.
+I mean, it may look
+like something that's already been built, or whatever. But it depends on what you're you're trying to accomplish. I mean, you can build everything from scratch right, aiden. You could go, and you could build your whole environment from scratch.
+But your other option of saying, what if we use this asset pack that has all the assets of trees.
+grass, you know, landscape, and then focus in on that. So you can actually focus on the stuff you want to focus in on, like the level.
+That might be a little bit more fun, and it gets built faster, and it's been tested already.
+Those are big deals so like. Just be mindful of that, and just know that it's totally fine.
+You don't have to build everything from scratch. Okay, so that's another app action of that. And then, of course testing. We tend to throw testing at the very end.
+How good is that?
+Got one thumbs down?
+ jean.carter 00:50:11 I think you're gonna want to test as soon as you can
+put out some sort of
+prototype or something enough to get start getting feedback on things.
+ Michael Cassens (he, his, him) 00:50:21 So testing becomes a continual process.
+Once you start going. You're testing. It should be a test first mentality.
+And I say that
+in a very directed way like you should be testing all the time.
+like as you're building things you want to be testing, so that you feel confident that when you go into the full the fullness of your project for your game.
+It's been tested at each section along the way, because, as those pieces come together, the complexity of what may or may not affect another part.
+get so much harder to figure out what went wrong
+Like if Section a over here
+is doing something, and Section B over here is doing something else, and when you bring them together
+Some condition in Section 8 effects. Section B. In a way you never thought like trying to figure that out If you've never tested them, gets like a Bazillion times harder. But then, when you have Cde. Fg.
+also competing.
+and it's like they can be in any order.
+Chaos and Zeus.
+and they are like, how do I replicate that?
+And the worst part is, we tend to do this myself included.
+Well, it only happened that one time. So it'd be fine. But if it's something that truly is catastrophic to your game.
+then even that one time.
+and then lead to
+You're right. The bad review from your middle schoolers.
+because, like that was trash
+right? Because they're like it broke, you know, like
+I didn't anticipate that particular instance. So that's really what it is.
+So
+what else?
+So testing early?
+Okay. So then, just thinking about again how we're gonna impact everybody else, how we're gonna impact our customers or our people that are playing our game, and so forth again, coming back to our scope, our timeline trying to more backwards.
+like if your timeline is this semester? Let's say it's that's fast. I'll be honest. It should be over a year. I mean this class should be, and it will be obviously moving forward. But so many of you are graduating. So it's this semester. And let's think.
+let's imagine you're creating some level.
+Okay, so maybe the realistic timeline, or you know, and that's up to you. I'm giving you that that space in that place.
+The realistic timeline for this class is
+the Spring Expo, which is the last week of class, or it's finals week.
+and you want to have something ready for that.
+Then work backwards from that time and say, how am I going to get there? And what am I going to develop for it? Right? The project Aid and Kasia are working on
+there and Taylor? They're all
+aiming for that.
+And they're thinking, okay, what can we get done realistically between now
+and the spring? Expo?
+How are we going to get there?
+What's that gonna look like, okay? And what's the scope
+like? Are they going to build all 5 modules in that time? No.
+because that would be nuts
+because they have other lives, and it's just not again quality over quantity. It's about trying to create the experience and frankly for you all to keep seeing. So that's really part of what what this is about. Okay. So again, here's some more stuff that you all can look at to. But
+this is always my favorite. Try to be funny, because you know, people actually read it then. But really it's for you all. And then these tests like: If someone to look at it. Would they actually get it, and what they actually understand it? If you went on vacation, would still someone be able to understand it right like again, going back to Aid and Taylor and Asia.
+There's going to be one of the team members who's going to go on a vacation. It's a forest vacation.
+Can they still keep moving forward? Even when that person's not there.
+Can someone else keep forward? Keep moving forward if your project and so is not there if you're not there. Okay.
+Yeah. And like Jean saying the game Development
+document last semester was a powerpoint which was great one. It was visual.
+It was super visual, so like it was just it, I mean. Sometimes we get lost in the words we're like words, words, words, and then our our brain started going like oh, so many words.
+whereas if it's pictures, it's so much easier to conceptualize you're like, oh, I get it! It does this this and this, and it's faster.
+And so thinking about how that might work. Okay, so all that stuff that's out there. Okay, so there's a whole bunch more stuff. But that's really
+the main gist of it. Okay.
+And the reason why i'm kind of coming to the end is, I want you to have an option to be able to
+ask some questions here for a second. Do you all have any questions before I talk about what we're going to do over the next couple of weeks
+questions concerns.
+I added the homework
+to this particular
+thing, but I haven't added it yet to the other one. So just know that it's coming. I'll put it in there in a minute, but I just haven't got there yet.
+ Unknown Speaker 00:55:30 So
+ Michael Cassens (he, his, him) 00:55:31 homework and the other section will exist. This one's in game studio, but game development. It Hasn't shown up yet. But it will.
+Okay, it's not due till next
+Tuesday. So you have a week to be thinking about that, and again giving me some good kind of
+base. You know. Timeline on that. Okay, what? What your plans are for the semester and I kind of outline it. What's your idea? So that's where your your topic is. And then who's gonna be in your group if you have one? And
+what kind of resources do you need, or what kind of people do you need help from? So that again you're reaching out to those people and saying like, here's the people that are going to help me.
+and it may change. And that's okay.
+ Shanel Locke 00:56:13 Is that the final project idea?
+ Unknown Speaker 00:56:16 Yeah.
+ Michael Cassens (he, his, him) 00:56:17 that's under final project idea.
+ Shanel Locke 00:56:20 I need a group, anyways, and so does Kate, because we can't submit anything a little.
+ Michael Cassens (he, his, him) 00:56:26 Yes, which yeah, I don't know how I I forget around it it it. You can't. That's okay. We like to meet up with people. They'll do it for us.
+They'll do it
+ jean.carter 00:56:38 so you can add them as a not enrolled.
+ Michael Cassens (he, his, him) 00:56:44 I can add that I added them as as tas, so they could at least see everything, but they can't be added as a
+ Shanel Locke 00:56:52 if he does that we can't see the assignments or discussion forms and stuff. It's pretty limited.
+ Michael Cassens (he, his, him) 00:56:58 Yeah, which is a bummer.
+Okay?
+What other questions you all have
+in the last 2 min.
+If we make up a team of someone, do we need to make our individual project idea document. Now, if you team up with someone.
+you can just kind of help work with their document like add in the sections that are going to be relevant to you. And so, whatever it is that you're working on. That's what you would be adding into that document. So you're collaborating with that you may be working. Let's say, for example, Lucy, you're working with, say, like 2 groups.
+You'll be having sections in both of those documents, and just make sure that's what I would say. Who's your team members at the top, because you may be on 2 different documents.
+because you're working on. Say.
+Chanel's project, and you're working on Solely's project.
+or something like that. If that makes sense.
+ jean.carter 00:57:53 If we create a game design document
+and then change our mind about not pursuing it.
+Nope, you're locked in, but we do a reality check and we go. Okay, I'm gonna be on a different project.
+ Shanel Locke 00:58:07 We're working on 2. You stop that negativity. Gene.
+ jean.carter 00:58:15 I'm: I'm: I'm trying to think of a revenge of the Npcs game.
+ Michael Cassens (he, his, him) 00:58:20 Revenge of the Npcs game. I love that
+all right.
+What else?
+Anything else you all can think of or have questions about.
+So i'm adding this in.
+ Shanel Locke 00:58:34 So this week we just need to get our groups together and start coming up with this final project idea.
+Cool
+ Michael Cassens (he, his, him) 00:58:43 revenge of the Mpc. I had that exact same idea when they were talking about that, Lucy. They were talking about the revenge of the Npc. And it would be the perfect Tower defense game.
+I thought that would be so amazing.
+All right, Someone will explain to me what a tower defense game is later.
+They're one of my favorite types of games, All right quickly. Next 2 weeks next week we have a guest speaker, so I would. It would be great if you all came. Angela Brewer is her name. She works at epic games. She's gonna come and give us a talk about what she does, or
+kind of more of like a generalized like
+like
+how she got to where she is. She may talk a little bit about what she does. She can't talk too much about epic, obviously, because.
+like she had to sign all this legal documentation to say like she wasn't going to like.
+give it any way, any trade secrets, or anything. But she was a graduate of the University of Montana. So I think you'll enjoy hearing from her, so she'll be here next Tuesday. The following Tuesday is another one of my former students, who also works at Epic and Andrea Law and Andrea Johnson. And so she's gonna come in. And then, after that, then depending on people's availability. It's going to be either somebody from
+I probably won't be the folks from Great Falls for a couple of weeks as they want to drive down, which again I'm still.
+But it could be Blake Battle who works at Bungee, or it could be somebody. It could be Daniel Rork, who's with Dell technologies, or it could be a a colleague of mine, Doug O. To guard who does some work on
+on software logging. So
+i'll keep you apprised as we could keep going. But the next couple of weeks for sure, these 2 individuals that we'll have coming and chatting with us. And so you guys get a you all get a a better sense of what's out there industry and hearing what they're doing, and kind of just how teams work there at these bigger industry, bigger companies, and have that perspective. So, anyway, so I would appreciate if you all came and
+and listen to them. So, Anyway, other questions concerns.
+Will they be coming on zoom or in person? They're gonna come on Zoom. They live. I think one lives in like Maryland and the other one lives in somewhere else. So
+i'm gonna zoom. They'll zoom in so i'll be in the room next week, and anyone else that wants to join me, and then we'll just pull it up on this. I know how to get into the TV now, so we're gonna be good.
+so it'll actually be on the big screen TV. And if you're on zoom, then your your faces will be large on the TV. Actually, it'll be a presentation. So it'll be tiny little faces.
+ Unknown Speaker 01:01:28 So
+ Michael Cassens (he, his, him) 01:01:32 other questions.
+Okay, thanks again for coming. And so early in the morning, especially all that wanted to come here even earlier.
+Hmm.
+But anyway, it's good to see you all. I will see you next week. Have a great week.
+
+
+
